@@ -1,4 +1,3 @@
-o jeito certo de falar é bolacha
 git init                   #inicializar o repositório
 git merge                  #serve para juntar as duas branchs
 git add .                  #serve para adicionar os arquivos modificados
@@ -6,3 +5,13 @@ git branch                 #serve para verificar quantas e quais branchs nós te
 git branch nome_da_branch  #cria uma branch com o nome_da_branch
 git commit -m              #serve para comitar(enviar) os arquivos e escrever uma mensagem que descreve o que foi feito
 git switch nome_da_branch  #serve para mudar para a branch que você quiser
+
+
+
+
+
+
+
+git config --global user.name "Seu Nome"
+git config --global user.email "seu.email@example.com"
+ 
