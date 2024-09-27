@@ -14,4 +14,4 @@ git switch nome_da_branch  #serve para mudar para a branch que você quiser
 
 git config --global user.name "Seu Nome"
 git config --global user.email "seu.email@example.com"
- 
+Testando repositório remoto
